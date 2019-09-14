@@ -1,7 +1,7 @@
 {
   "app-id": "re.sonny.Tangram",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "3.32",
+  "runtime-version": "3.34",
   "sdk": "org.gnome.Sdk",
   "command": "re.sonny.Tangram",
   "finish-args": [
@@ -10,8 +10,7 @@
     "--socket=wayland",
     "--device=dri",
     "--share=network",
-    "--socket=pulseaudio",
-    "--filesystem=xdg-data/applications:create"
+    "--socket=pulseaudio"
   ],
   "modules": [
     {
@@ -20,8 +19,8 @@
       "sources": [{
         "type": "git",
         "url": "https://github.com/sonnyp/Tangram.git",
-        "tag": "v1.0.1",
-        "commit": "f2531c783d148c5d6a3c796e4ecd865a011686e6"
+        "tag": "v1.1.0",
+        "commit": "5a763d2b057c9fb89d69f740af14d6ef334e01ea"
       }]
     }
   ]
