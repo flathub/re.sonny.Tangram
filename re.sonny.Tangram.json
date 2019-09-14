@@ -11,7 +11,8 @@
     "--device=dri",
     "--share=network",
     "--socket=pulseaudio",
-    "--filesystem=xdg-data/applications:create"
+    "--filesystem=xdg-data/applications:create",
+    "--talk-name=ca.desrt.dconf"
   ],
   "modules": [
     {
