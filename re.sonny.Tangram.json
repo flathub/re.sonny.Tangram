@@ -19,8 +19,8 @@
       "sources": [{
         "type": "git",
         "url": "https://github.com/sonnyp/Tangram.git",
-        "tag": "v1.1.0",
-        "commit": "5a763d2b057c9fb89d69f740af14d6ef334e01ea"
+        "tag": "v1.2.0",
+        "commit": "3237da8cac1ab6929c0eaaa82700736e20cde9b3"
       }]
     }
   ]
