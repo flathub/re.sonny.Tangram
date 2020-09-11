@@ -5,8 +5,7 @@
   "sdk": "org.gnome.Sdk",
   "command": "re.sonny.Tangram",
   "finish-args": [
-    "--share=ipc",
-    "--socket=x11",
+    "--socket=fallback-x11",
     "--socket=wayland",
     "--device=dri",
     "--share=network",
@@ -19,8 +18,8 @@
       "sources": [{
         "type": "git",
         "url": "https://github.com/sonnyp/Tangram.git",
-        "tag": "v1.2.0",
-        "commit": "3237da8cac1ab6929c0eaaa82700736e20cde9b3"
+        "tag": "v1.3.0",
+        "commit": "2ef441bdb579fc93569428bce4a59c6a53e91d4a"
       }]
     }
   ]
