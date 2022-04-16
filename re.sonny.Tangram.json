@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sonnyp/Tangram.git",
-                    "tag": "v1.4.1",
-                    "commit": "126dc15059b3f0afd30bcec71d84e894936ebb61",
+                    "tag": "v1.5.0",
+                    "commit": "87e09152ca2a25907ad512584e5b719b0bb619b7",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
