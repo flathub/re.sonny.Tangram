@@ -1,7 +1,7 @@
 {
     "app-id": "re.sonny.Tangram",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "re.sonny.Tangram",
     "finish-args": [
@@ -11,7 +11,8 @@
         "--socket=fallback-x11",
         "--socket=pulseaudio",
         "--socket=wayland",
-        "--system-talk-name=org.freedesktop.GeoClue2"
+        "--system-talk-name=org.freedesktop.GeoClue2",
+        "--require-version=1.1.2"
     ],
     "modules": [
         {
@@ -21,12 +22,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sonnyp/Tangram.git",
-                    "tag": "v1.4.2",
-                    "commit": "37e7a820b0646791cec2678eb5808045eb2a6f42",
-                    "x-checker-data": {
-                        "type": "git",
-                        "tag-pattern": "^v([\\d.]+)$"
-                    }
+                    "tag": "v1.5.0",
+                    "commit": "176249af8aedaf878fe7503d2838b10042967690"
                 }
             ]
         }
