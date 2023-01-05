@@ -18,7 +18,6 @@
     {
       "name": "blueprint",
       "buildsystem": "meson",
-      "builddir": true,
       "sources": [
         {
           "type": "git",
