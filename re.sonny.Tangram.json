@@ -36,6 +36,7 @@
           "type": "git",
           "url": "https://github.com/sonnyp/Tangram.git",
           "branch": "main",
+          "commit": "e8237130406a7a180bd184b794b857b415484d1c",
           "x-checker-data": {
             "type": "git",
             "branch": "main"
