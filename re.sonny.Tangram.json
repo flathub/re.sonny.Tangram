@@ -23,8 +23,7 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler.git",
-          "tag": "v0.4.0",
-          "commit": "75a6d95988736ec0471d22ceb07579c0cedac2ad"
+          "commit": "40f493b378cf73d1cc3f128895e842e8665a56c3"
         }
       ]
     },
@@ -35,12 +34,7 @@
         {
           "type": "git",
           "url": "https://github.com/sonnyp/Tangram.git",
-          "branch": "main",
-          "commit": "e8237130406a7a180bd184b794b857b415484d1c",
-          "x-checker-data": {
-            "type": "git",
-            "branch": "main"
-          }
+          "commit": "fee6bf5acec8e7ae514e0cde2ee675f09b805cd6"
         }
       ]
     }
