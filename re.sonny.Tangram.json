@@ -47,8 +47,8 @@
         {
           "type": "git",
           "url": "https://github.com/sonnyp/Tangram.git",
-          "tag": "v3.2",
-          "commit": "92473b06f5afde24b6267ee07ee0cc2d76dcba78"
+          "tag": "v3.3",
+          "commit": "e4af04be081b0f6c70f0cfcd313c3b3cef329646"
         }
       ]
     }
