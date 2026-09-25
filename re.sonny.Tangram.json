@@ -1,7 +1,7 @@
 {
   "id": "re.sonny.Tangram",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "49",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "re.sonny.Tangram",
   "finish-args": [
@@ -34,8 +34,8 @@
         {
           "type": "git",
           "url": "https://github.com/sonnyp/Tangram.git",
-          "tag": "v3.5",
-          "commit": "0865160dbfccb6b8a4094c77859bac405f458dd1"
+          "tag": "v3.6",
+          "commit": "b0b01f72a119a30f0fae436666bd699fdc7de86f"
         }
       ]
     }
